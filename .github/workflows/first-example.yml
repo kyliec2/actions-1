@@ -16,4 +16,4 @@ jobs:
           run: ls
             
         - name: Read file
-          run: cat kyliec2/actions-1/README.md
+          run: cat README.md
